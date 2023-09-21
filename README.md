@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Priyams1
-- 👀 I’m interested in:- web devlopment
-- 🌱 I’m currently learning:- web devlopment
-- 💞️ I’m looking to collaborate on:-
+- 👋 Hi, I’m @Priyam Singh
+- 👀 I’m interested in:- Devlopment
+- 🌱 I’m currently learning:- Full Stack
+- 💞️ I’m looking to collaborate on:- Front End
 - 📫 How to reach me:- through my email priyamsingh888@gmail.com
 
 <!---
